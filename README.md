@@ -1,3 +1,1 @@
-Hristo, from Bulgaria. 
-</>
 
