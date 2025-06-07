@@ -1,7 +1,3 @@
-# **${\color{MediumSeaGreen}{\texttt{&lt;?php}}}$** **${\color{goldenrod}{\texttt{echo}}}$** **${\color{orange}{\texttt{"Hi, I'm Hristo Sabev";}}}$** **${\color{MediumSeaGreen}{\texttt{?&gt;}}}$**
-
----
-
 ### 🧰 About Me
 
 <p align="left">
