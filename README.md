@@ -1,4 +1,4 @@
-### 🧰 About Me
+### About Me
 
 <p align="left">
   Welcome to my GitHub profile! I'm Hristo — a passionate web developer and programmer who thrives on solving problems and building elegant web applications.<br><br>
@@ -7,7 +7,7 @@
 </p>
 
 
-## 🐝 Creator of BeeMo
+## Creator of BeeMo
 
 ### BeeMo — A Bee Colony Monitoring System
 
@@ -22,14 +22,14 @@ BeeMo is designed to facilitate the work of the modern beekeeper by monitoring t
 - An intelligent script tracks positive nectar growth and automatically sends email alerts to all system admins when growth is detected.
 
 
-### 📸 Screenshots
+### Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4d9240e1-9309-4c6b-a9ff-d75e9910787a" alt="Screenshot 1" width="300" style="margin-right:10px;" />
   <img src="https://github.com/user-attachments/assets/17f9a57c-9cf8-49c4-8848-57207c8436c5" alt="Screenshot 2" width="300" style="margin-right:10px;" />
   <img src="https://github.com/user-attachments/assets/b3966c04-e8fe-4eb2-a19c-4f33878545d8" alt="Screenshot 3" width="300" />
 </p>
 
-### 👉 Check it out!
+###  Check it out!
 
 🔗 [Visit BeeMo Dashboard](https://beemo.balikgstudio.eu/)
 
@@ -37,7 +37,7 @@ BeeMo is designed to facilitate the work of the modern beekeeper by monitoring t
 
 ---
 
-### 🧠 Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
@@ -49,7 +49,7 @@ BeeMo is designed to facilitate the work of the modern beekeeper by monitoring t
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <div align="left">
   <a href="https://discord.gg/s7kjxdXNV6" target="_blank">
@@ -68,7 +68,7 @@ BeeMo is designed to facilitate the work of the modern beekeeper by monitoring t
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=foxyball&show_icons=true&count_private=true&theme=dracula&hide_border=false&custom_title=Stats" height="150" alt="GitHub Stats" />
