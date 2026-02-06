@@ -1,7 +1,7 @@
 ### About Me
 
 <p align="left">
-  Welcome to my GitHub profile! I'm Hristo — a passionate web developer and programmer who thrives on solving problems and building elegant web applications.<br><br>
+  I'm Hristo — a junior programmer.<br><br>
   <strong>PHP is my language of choice.</strong> Some might say it’s outdated, but I see it like a classic muscle car — it may be old, but it gets the job done, and it does it with style. 🚀<br><br>
   I love building reliable systems, tinkering with server environments, and optimizing performance under the hood.
 </p>
