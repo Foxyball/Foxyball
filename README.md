@@ -71,9 +71,7 @@ BeeMo is designed to facilitate the work of the modern beekeeper by monitoring t
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foxyball&show_icons=true&count_private=true&theme=dracula&hide_border=false&custom_title=Stats" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=foxyball&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foxyball&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
